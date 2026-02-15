@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "then",
+  "base_artist": "back number",
+  "createdAt": "2026-02-15T14:32:19.576091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now & Then",
+      "artist": "Sjowgren",
+      "has_synced": false,
+      "path": "select/01_Now_&_Then_Sjowgren.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If Not Now, Then When?",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_If_Not_Now,_Then_When_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back Then, Right Now",
+      "artist": "Tenille Arts",
+      "has_synced": true,
+      "path": "select/03_Back_Then,_Right_Now_Tenille_Arts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back Then, Right Now",
+      "artist": "Tenille Arts",
+      "has_synced": true,
+      "path": "select/04_Back_Then,_Right_Now_Tenille_Arts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The One I Loved Back Then",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/05_The_One_I_Loved_Back_Then_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The One I Loved Back Then (Album Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/06_The_One_I_Loved_Back_Then_(Album_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The One I Loved Back Then (The Corvette Song)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/07_The_One_I_Loved_Back_Then_(The_Corvette_Song)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Then",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/08_Then_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Then They Do (With String Intro)",
+      "artist": "Trace Adkins",
+      "has_synced": false,
+      "path": "select/09_Then_They_Do_(With_String_Intro)_Trace_Adkins.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Then What?",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/10_Then_What_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Then What? (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/11_Then_What__(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Then Who Am I",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/12_Then_Who_Am_I_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Then You Can Tell Me Goodbye",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/13_Then_You_Can_Tell_Me_Goodbye_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jump Then Fall",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/14_Jump_Then_Fall_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "then",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_then_back_number.txt"
+    }
+  ]
+}
